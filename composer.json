@@ -24,6 +24,16 @@
       "yiister\\gentelella\\": ""
     }
   },
+  "config": {
+    "fxp-asset": {
+      "repositories": [
+        {
+          "type": "bower-vcs",
+          "url": "https://github.com/spirit-of-wars/bower-gentelella/"
+        }
+      ]
+    }
+  },
   "extra": {
     "asset-installer-paths": {
       "npm-asset-library": "vendor/npm",
