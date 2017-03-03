@@ -29,7 +29,8 @@
       "repositories": [
         {
           "type": "bower-vcs",
-          "url": "https://github.com/spirit-of-wars/bower-gentelella/"
+          "url": "https://github.com/spirit-of-wars/bower-gentelella.git",
+          "name": "gentelella-spirit"
         }
       ]
     }
